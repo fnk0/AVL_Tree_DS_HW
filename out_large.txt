@@ -1,0 +1,4 @@
+Tue Apr 26 16:49:22 CDT 2016 ~ find: Found 'hello' with 13 comparisons
+Tue Apr 26 16:49:24 CDT 2016 ~ occurs: Could not find occurrences for word: helo
+Tue Apr 26 16:49:29 CDT 2016 ~ occurs: Occurrences for word hello: [12347, 21395, 24679, 24686, 25811, 28894, 29653, 39067, 44892, 47517, 47521, 47756, 51251, 53062, 59660, 59668, 64135, 80102, 80163, 80226, 83650, 83658, 85034, 85042, 92136, 106274, 113001, 113003, 113005, 113007, 167290, 167293, 190905]
+

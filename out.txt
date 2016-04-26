@@ -1,0 +1,6 @@
+Wed Apr 20 15:39:59 CDT 2016 ~ count: The word 'he' appears 13 times.
+Wed Apr 20 15:40:01 CDT 2016 ~ replace: removed word 'he'
+Wed Apr 20 15:40:04 CDT 2016 ~ find: Could not find 'he'
+Wed Apr 20 15:40:21 CDT 2016 ~ replace: replaced word 'you' with 'he'
+Wed Apr 20 15:40:22 CDT 2016 ~ count: The word 'he' appears 4 times.
+
